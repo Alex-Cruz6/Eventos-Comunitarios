@@ -1,4 +1,27 @@
-# Welcome to your Expo app 👋
+# Integrantes del proyecto
+
+José Alexander Cruz Alvarado CA202818
+Rafael Ernesto Flores Canizales FC202823
+Irvin Eduardo Gonzalez Romero GR202825
+
+# Mockups
+
+1. Login
+   ![login](./images/login.png)
+2. Register
+   ![Register](./images/register.png)
+3. Eventos
+   ![Eventos](./images/Eventos.png)
+4. Crear evento
+   ![Crear evento](./images/crear%20evento.png)
+5. Descripción de evento
+   ![Descripción de evento](./images/Descripcion%20eventos.png)
+6. Editar evento
+   ![Editar evento](./images/editar%20evento.png)
+7. Eliminar evento
+   ![Eliminar evento](./images/eliminar%20evento.png)
+
+# Bienvenido a la app de eventos comunitarios 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
