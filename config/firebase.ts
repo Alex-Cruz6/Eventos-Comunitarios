@@ -4,7 +4,7 @@ import { getAuth, Auth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDl6C7aG5ejQscoL0eXiJX5HVPgEuBbM7A",
+  apiKey: "API-KEY",
   authDomain: "eventoscomunitarios-688da.firebaseapp.com",
   projectId: "eventoscomunitarios-688da",
   storageBucket: "eventoscomunitarios-688da.firebasestorage.app",
